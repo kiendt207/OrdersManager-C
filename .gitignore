@@ -4,10 +4,9 @@ obj/
 *.exe
 .build/
 
-*.txt
-
 AGENT_GUIDE.md
 ai_settings.json
 
 .vscode/
 .idea/
+.gitignore
