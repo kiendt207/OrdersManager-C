@@ -4,7 +4,7 @@ obj/
 *.exe
 .build/
 
-data/orders.txt
+*.txt
 
 AGENT_GUIDE.md
 ai_settings.json
