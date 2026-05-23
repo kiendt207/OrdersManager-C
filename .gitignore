@@ -4,9 +4,5 @@ obj/
 *.exe
 .build/
 
-AGENT_GUIDE.md
-ai_settings.json
-
 .vscode/
 .idea/
-.gitignore
