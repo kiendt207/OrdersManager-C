@@ -1,0 +1,13 @@
+*.o
+obj/
+
+*.exe
+.build/
+
+data/orders.txt
+
+AGENT_GUIDE.md
+ai_settings.json
+
+.vscode/
+.idea/
